@@ -6,3 +6,4 @@ for i in range(1,n+1):
     stor=arr
     stor.sort()
 print(stor)
+# we can do many operations with the above logical satements
